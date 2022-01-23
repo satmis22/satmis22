@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satmis22
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning backend😊
 - 💞️ I’m looking to collaborate on webD
 - 📫 How to reach me boomverdict@gmail.com
 
